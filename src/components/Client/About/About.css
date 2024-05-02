@@ -1,0 +1,25 @@
+
+.page-content {
+    padding: 20px;
+  }
+  
+  .page-content h1 {
+    color:#77cc74;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .page-content p {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .page-content a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .page-content a:hover {
+    text-decoration: underline;
+  }

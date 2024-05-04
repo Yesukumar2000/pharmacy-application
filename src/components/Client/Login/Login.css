@@ -8,8 +8,13 @@
     border: 1px solid #1cd61c;
     border-radius: 5px;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #ddd;
   }
-  
+  .login-container h2{
+    padding: 10px;
+    text-align: "center";
+    color: black;
+  }
   .login-container form {
     display: flex;
     flex-direction: column;

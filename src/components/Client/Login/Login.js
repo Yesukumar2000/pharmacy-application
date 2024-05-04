@@ -8,7 +8,7 @@ function Login() {
   let navigate = useNavigate();
   return (
     <div className="login-container">
-      <h2 style={{ textAlign: "center" }}>Login</h2>
+      <h2>Login</h2>
       <form>
         <div>
           <label>FirstName:</label>

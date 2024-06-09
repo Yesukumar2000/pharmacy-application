@@ -1,0 +1,12 @@
+
+  .profileImg {
+    margin: auto 35%;
+    width: 350px;
+    height: 300px;
+    border: 1px solid green;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+  
+ 
